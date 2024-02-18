@@ -224,6 +224,18 @@
 /processorParam:TextureFormat=Color
 /build:Imgs/Btns/Btn9.png
 
+#begin Imgs/Btns/camIcon.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Imgs/Btns/camIcon.png
+
 #begin Imgs/Btns/menuBtn.png
 /importer:TextureImporter
 /processor:TextureProcessor
@@ -308,6 +320,42 @@
 /processorParam:TextureFormat=Color
 /build:Imgs/Btns/PixelImg.png
 
+#begin Imgs/Btns/profilePic.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Imgs/Btns/profilePic.png
+
+#begin Imgs/Btns/profilePic.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Imgs/Btns/profilePic.png
+
+#begin Imgs/Btns/profilePicMask.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Imgs/Btns/profilePicMask.png
+
 #begin Imgs/Btns/SnapIt200Pxl.png
 /importer:TextureImporter
 /processor:TextureProcessor
@@ -343,4 +391,10 @@
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
 /build:Imgs/Btns/SwitchOn.png
+
+#begin Sounds/BtnSelectSnd.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Sounds/BtnSelectSnd.wav
 

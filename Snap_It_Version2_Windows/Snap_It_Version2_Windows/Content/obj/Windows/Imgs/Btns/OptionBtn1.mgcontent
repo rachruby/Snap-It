@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/AM_admin/Desktop/Hackathon/Snap_It_Version2_Windows/Snap_It_Version2_Windows/Content/Imgs/Btns/OptionBtn1.png</SourceFile>
+  <SourceFile>C:/Users/AM_admin/Desktop/Hackathon/Snap-It/Snap_It_Version2_Windows/Snap_It_Version2_Windows/Content/Imgs/Btns/OptionBtn1.png</SourceFile>
   <SourceTime>2024-02-17T23:45:57.7713051-05:00</SourceTime>
-  <DestFile>C:/Users/AM_admin/Desktop/Hackathon/Snap_It_Version2_Windows/Snap_It_Version2_Windows/Content/bin/Windows/Imgs/Btns/OptionBtn1.xnb</DestFile>
-  <DestTime>2024-02-18T00:00:18.4171468-05:00</DestTime>
+  <DestFile>C:/Users/AM_admin/Desktop/Hackathon/Snap-It/Snap_It_Version2_Windows/Snap_It_Version2_Windows/Content/bin/Windows/Imgs/Btns/OptionBtn1.xnb</DestFile>
+  <DestTime>2024-02-18T07:09:39.4308194-05:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2023-08-31T23:04:21.6183838-04:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
