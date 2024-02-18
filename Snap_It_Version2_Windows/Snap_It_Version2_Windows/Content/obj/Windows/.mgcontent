@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/AM_admin/Desktop/Hackathon/Snap_It_Version2_Windows/Snap_It_Version2_Windows/Content/Fonts/MenuFont.spritefont</File>
+    <File>C:/Users/AM_admin/Desktop/Hackathon/Snap_It_Version2_Windows/Snap_It_Version2_Windows/Content/Imgs/BgImgs/DailyMotivation1.png</File>
+    <File>C:/Users/AM_admin/Desktop/Hackathon/Snap_It_Version2_Windows/Snap_It_Version2_Windows/Content/Imgs/BgImgs/SnapItBar.png</File>
+    <File>C:/Users/AM_admin/Desktop/Hackathon/Snap_It_Version2_Windows/Snap_It_Version2_Windows/Content/Imgs/BgImgs/SnapItDropdown.png</File>
+    <File>C:/Users/AM_admin/Desktop/Hackathon/Snap_It_Version2_Windows/Snap_It_Version2_Windows/Content/Imgs/Btns/ArrowBack.png</File>
+    <File>C:/Users/AM_admin/Desktop/Hackathon/Snap_It_Version2_Windows/Snap_It_Version2_Windows/Content/Imgs/Btns/ArrowDown.png</File>
+    <File>C:/Users/AM_admin/Desktop/Hackathon/Snap_It_Version2_Windows/Snap_It_Version2_Windows/Content/Imgs/Btns/ArrowGo.png</File>
+    <File>C:/Users/AM_admin/Desktop/Hackathon/Snap_It_Version2_Windows/Snap_It_Version2_Windows/Content/Imgs/Btns/ArrowUp.png</File>
+    <File>C:/Users/AM_admin/Desktop/Hackathon/Snap_It_Version2_Windows/Snap_It_Version2_Windows/Content/Imgs/Btns/Btn0.png</File>
+    <File>C:/Users/AM_admin/Desktop/Hackathon/Snap_It_Version2_Windows/Snap_It_Version2_Windows/Content/Imgs/Btns/Btn1.png</File>
+    <File>C:/Users/AM_admin/Desktop/Hackathon/Snap_It_Version2_Windows/Snap_It_Version2_Windows/Content/Imgs/Btns/Btn2.png</File>
+    <File>C:/Users/AM_admin/Desktop/Hackathon/Snap_It_Version2_Windows/Snap_It_Version2_Windows/Content/Imgs/Btns/Btn3.png</File>
+    <File>C:/Users/AM_admin/Desktop/Hackathon/Snap_It_Version2_Windows/Snap_It_Version2_Windows/Content/Imgs/Btns/Btn4.png</File>
+    <File>C:/Users/AM_admin/Desktop/Hackathon/Snap_It_Version2_Windows/Snap_It_Version2_Windows/Content/Imgs/Btns/Btn5.png</File>
+    <File>C:/Users/AM_admin/Desktop/Hackathon/Snap_It_Version2_Windows/Snap_It_Version2_Windows/Content/Imgs/Btns/Btn6.png</File>
+    <File>C:/Users/AM_admin/Desktop/Hackathon/Snap_It_Version2_Windows/Snap_It_Version2_Windows/Content/Imgs/Btns/Btn7.png</File>
+    <File>C:/Users/AM_admin/Desktop/Hackathon/Snap_It_Version2_Windows/Snap_It_Version2_Windows/Content/Imgs/Btns/Btn8.png</File>
+    <File>C:/Users/AM_admin/Desktop/Hackathon/Snap_It_Version2_Windows/Snap_It_Version2_Windows/Content/Imgs/Btns/Btn9.png</File>
+    <File>C:/Users/AM_admin/Desktop/Hackathon/Snap_It_Version2_Windows/Snap_It_Version2_Windows/Content/Imgs/Btns/menuBtn.png</File>
+    <File>C:/Users/AM_admin/Desktop/Hackathon/Snap_It_Version2_Windows/Snap_It_Version2_Windows/Content/Imgs/Btns/OptionBtn1.png</File>
+    <File>C:/Users/AM_admin/Desktop/Hackathon/Snap_It_Version2_Windows/Snap_It_Version2_Windows/Content/Imgs/Btns/OptionBtn2.png</File>
+    <File>C:/Users/AM_admin/Desktop/Hackathon/Snap_It_Version2_Windows/Snap_It_Version2_Windows/Content/Imgs/Btns/OptionBtn3.png</File>
+    <File>C:/Users/AM_admin/Desktop/Hackathon/Snap_It_Version2_Windows/Snap_It_Version2_Windows/Content/Imgs/Btns/OptionBtn4.png</File>
+    <File>C:/Users/AM_admin/Desktop/Hackathon/Snap_It_Version2_Windows/Snap_It_Version2_Windows/Content/Imgs/Btns/OptionBtn5.png</File>
+    <File>C:/Users/AM_admin/Desktop/Hackathon/Snap_It_Version2_Windows/Snap_It_Version2_Windows/Content/Imgs/Btns/PixelImg.png</File>
+    <File>C:/Users/AM_admin/Desktop/Hackathon/Snap_It_Version2_Windows/Snap_It_Version2_Windows/Content/Imgs/Btns/SnapIt200Pxl.png</File>
+    <File>C:/Users/AM_admin/Desktop/Hackathon/Snap_It_Version2_Windows/Snap_It_Version2_Windows/Content/Imgs/Btns/SwitchOff.png</File>
+    <File>C:/Users/AM_admin/Desktop/Hackathon/Snap_It_Version2_Windows/Snap_It_Version2_Windows/Content/Imgs/Btns/SwitchOn.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

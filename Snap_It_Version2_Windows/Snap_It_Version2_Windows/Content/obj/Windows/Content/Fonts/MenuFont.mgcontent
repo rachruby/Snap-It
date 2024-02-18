@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/AM_admin/Desktop/Hackathon/Snap_It_Version2_Windows/Snap_It_Version2_Windows/Content/Fonts/MenuFont.spritefont</SourceFile>
+  <SourceTime>2024-02-18T00:51:51.4645456-05:00</SourceTime>
+  <DestFile>C:/Users/AM_admin/Desktop/Hackathon/Snap_It_Version2_Windows/Snap_It_Version2_Windows/Content/bin/Windows/Content/Fonts/MenuFont.xnb</DestFile>
+  <DestTime>2024-02-18T00:52:06.294276-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T11:35:54-05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T11:35:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
